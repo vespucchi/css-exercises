@@ -3,7 +3,7 @@
     font-family: "Verdana" "DejaVu Sans" "sans-serif";
 }
 
-.cool {
+.adjust-font-size {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #forth {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
